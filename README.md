@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=GpOJ0qKg&id=6C6DEF8F03018ABEDD092A53BC0BD8A1E84A2114&thid=OIP.GpOJ0qKgV-rgxM_oc1_s-AHaHN&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fstudent-programming-computer-doing-coding-work-programming-websites-databases-student-programming-computer-doing-182757916.jpg&exph=1600&expw=1645&q=Computer+Coding+Cartoon&simid=608008421464767422&FORM=IRPRST&ck=0C47A5730431EAF4DC9868E6688F2EF3&selectedIndex=6" align="center" style="width: 100%" />
 </div>  
   
 
