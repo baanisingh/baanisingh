@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baani Singh</h1>
 <h3 align="center">Frontend Developer, budding AI/ML engineer, Cyber Security enthusiast</h3>
 
-<img align="right" width=400 alt="error" src="https://www.bing.com/images/search?view=detailV2&ccid=x%2fr0HXAd&id=6D9B4AE436180FDF98F96BDC3AEE5A926EE63B80&thid=OIP.x_r0HXAdBa5Mvbd7eOejKAHaEK&mediaurl=https%3a%2f%2fcdn.videoplasty.com%2fanimation%2fchill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg&exph=576&expw=1024&q=coder+girl+animated&simid=608008717810617053&FORM=IRPRST&ck=5E4BC1C67418900E88DDB2C600962A47&selectedIndex=28">
+<img align="right" width=400 alt="error" src="https://www.bing.com/images/search?view=detailV2&ccid=GpOJ0qKg&id=6C6DEF8F03018ABEDD092A53BC0BD8A1E84A2114&thid=OIP.GpOJ0qKgV-rgxM_oc1_s-AHaHN&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fstudent-programming-computer-doing-coding-work-programming-websites-databases-student-programming-computer-doing-182757916.jpg&exph=1600&expw=1645&q=Computer+Coding+Cartoon&simid=608008421464767422&FORM=IRPRST&ck=0C47A5730431EAF4DC9868E6688F2EF3&selectedIndex=6">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baanisingh" alt="baanisingh" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber and Network Security, AI/ML/DL**
