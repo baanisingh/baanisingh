@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
 </div>  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
+
 
 ### <div align="center">I'm Baani, a frontend developer, budding AI/ML engineer, Cyber  Security enthusiast👨‍💻 </div>  
   
