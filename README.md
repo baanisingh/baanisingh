@@ -5,21 +5,29 @@
 
 ### <div align="center">I'm Baani, a frontend developer, budding AI/ML engineer, Cyber  Security enthusiast👨‍💻 </div>  
   
+<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on AI/ML projects (http://github.com/baanisingh)  
+- 🔭 I’m currently working on AI/ML projects (http://github.com/baanisingh) 
+
+- 🌱 I’m currently learning Cyber Security and AI/ML/DL    
   
 
-- 🌱 I’m currently learning Cyber Security and AI/ML/DL  
+- ❓  Ask me about anything related to operating systems and Network Security 
   
 
-- ❓ Ask me about anything related to operating systems and Network Security  
-  
+- ⚡ Fun fact: I run 5kms everyday!
 
-- ⚡ Fun fact: I run 5Kms everyday  
-  
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
