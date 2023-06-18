@@ -90,7 +90,19 @@
 </a>
 <a href="https://github.com/baanisingh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:bsingh1_be21@thapar.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge"/>
+</a>
+<a href="https://leetcode.com/baanisingh/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEETCODE Badge"/>
+  </a>
+   <a href="https://www.hackerrank.com/baani2003">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a> 
+  <a href="https://www.kaggle.com/baanisingh03">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>  
   
 
