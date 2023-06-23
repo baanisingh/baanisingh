@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Baani, a frontend developer, budding AI/ML engineer, Cyber  Security enthusiast👨‍💻 </div>  
+### <div align="center">I'm Baani, a Data Analyst, Budding MERN stack Developer, Cyber  Security enthusiast👨‍💻 </div>  
   
 <table><tr><td valign="top" width="50%">
 
