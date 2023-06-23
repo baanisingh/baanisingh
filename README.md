@@ -103,7 +103,7 @@
   <a href="https://www.kaggle.com/baanisingh03">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://Baani Singh.netlify.app/">
+  <a href="https://baani-singh-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
   </a>
 </div>  
