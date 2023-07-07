@@ -15,7 +15,7 @@
 - ❓  Ask me about anything related to operating systems and Network Security 
   
 
-- ⚡ Fun fact: I run 5kms everyday!
+- ⚡ Fun fact: I run 8kms everyday!
 
 
 </td><td valign="top" width="50%">
