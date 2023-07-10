@@ -91,7 +91,7 @@
   <a href="https://baani-singh-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/baani-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/baani-singh-17557a282" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
