@@ -112,6 +112,9 @@
 <td valign="bottom" width="50%">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=baanisingh&theme=swift)](https://git.io/streak-stats)
+<img width="1500" height="auto" align="center" alt="Baanisingh's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=baanisingh&row=1&column=7&theme=darkhub&margin-w=15e" />
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=baanisingh&row=7&column=7&theme=darkhub&margin-w=15)]-->
 
 </td></tr></table>  
 
