@@ -1,6 +1,8 @@
 # &#128204; About Me:
 <h3 align="center">I'm Baani, a budding MERN Stack Developer and Data Analyst. I'm constantly learning and creating! &#127911;</h3>
 🔭 I’m currently working on MERN Stack Projects<br>🤝 I’m looking for help and collaboration with Data Analytics<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Cyber Security<br>⚡ Fun fact: I am very passionate about Computer networks
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baaaani.singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baani-singh-17557a282) 
 
