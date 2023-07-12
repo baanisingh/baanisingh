@@ -111,7 +111,7 @@
   </td></tr>
 <td valign="bottom" width="50%">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baanisingh&" alt="image" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=baanisingh&theme=swift)](https://git.io/streak-stats)
 
 </td></tr></table>  
 
