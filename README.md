@@ -1,4 +1,5 @@
-# 💫 About Me:
+# About ME:
+<h3 align="center">I'm Baani, a budding MERN Stack Developer and Data Analyst. I'm constantly learning and creating! &#127911;</h3>
 🔭 I’m currently working on MERN Stack Projects<br>🤝 I’m looking for help and collaboration with Data Analytics<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Cyber Security<br>⚡ Fun fact: I am very passionate about Computer networks
 
 
